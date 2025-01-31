@@ -1,4 +1,4 @@
-Voice Translator
+speech-to-Text and Language Translation Application
 
 This project is a simple voice translator that allows users to speak in one language and get the translation in another language. The translated text is also converted into speech and saved as an audio file. The project uses Python libraries for speech recognition, translation, and text-to-speech conversion.
 
